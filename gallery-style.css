@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  max-width: 650px;
+  min-width: 150px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin: 12px;
+  flex-grow: 1;
+}
+
+.allbox {
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-evenly;
+}
+.box1 {
+  background-color: rgb(136, 78, 78);
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-image: url(/assets/image/gausala.jpg);
+  background-size: cover;
+}
+.box2 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/patila-view.jpg);
+}
+.box3 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/petrolpump.jpg);
+}
+.box4 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/pond.jpg);
+}
+.allbox2 {
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-evenly;
+}
+.box5 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/primary-school.jpg);
+}
+.box6 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/school.jpg);
+}
+.box7 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/my-house.jpg);
+}
+.box8 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/baba-house.jpg);
+}
+.allbox3 {
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-evenly;
+}
+.box9 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/pardhan-house.jpg);
+}
+.box10 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/front-img1.jpg);
+}
+.box11 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/background.jpg);
+}
+.box12 {
+  background-color: white;
+  border: 2px solid black;
+  height: 300px;
+
+  display: flex;
+  border-radius: 15px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(/assets/image/cricket-view.jpg);
+}
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#370baf, #227a7a);
+  border-radius: 10px;
+}
